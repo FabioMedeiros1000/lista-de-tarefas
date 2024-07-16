@@ -33,3 +33,7 @@ O objetivo deste projeto é demonstrar o uso de jQuery para criar uma aplicaçã
 
 5. **Desmarque se necessário:**
    Clique novamente na tarefa para remover o efeito de conclusão.
+
+## Links úteis
+
+**Link do Site:** [Lista de tarefas](https://fabio-lista-de-tarefas.vercel.app/)
