@@ -36,4 +36,4 @@ O objetivo deste projeto é demonstrar o uso de jQuery para criar uma aplicaçã
 
 ## Links úteis
 
-**Link do Site:** [Lista de tarefas](https://fabio-lista-de-tarefas.vercel.app/)
+- **Link do Site:** [Lista de tarefas](https://fabio-lista-de-tarefas.vercel.app/)
