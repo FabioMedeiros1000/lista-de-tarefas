@@ -26,7 +26,7 @@ O objetivo deste projeto é demonstrar o uso de jQuery para criar uma aplicaçã
    Para adicionar a tarefa à lista.
 
 3. **Visualize a tarefa:**
-   A tarefa aparecerá listada abaixo do campo de entrada.
+   A tarefa aparecerá listada abaixo.
 
 4. **Marque como concluída:**
    Clique sobre a tarefa para tachá-la e mudar sua cor para verde.
